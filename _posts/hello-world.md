@@ -1,13 +1,13 @@
 ---
 title: 'Hello world!'
 excerpt: 'Kolejny blog w Internecie. Kolejny mój blog. Ale dlaczego by nie?'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+coverImage: '/assets/blog/hello-world/cover.jpeg'
 date: '2021-05-26T12:35:00.322Z'
 author:
   name: Kamil Głusiński
   picture: '/assets/blog/authors/kamil.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/hello-world/cover.jpeg'
 ---
 
 Kawa, komputer i do boju. Zakładam kolejnego bloga. Czemu nowy, a nie odświeżyć stare śmieci? Bo Wordpress. Bo chcę spróbować czegoś nowego. Czegoś, co daje mi 100% władzy nad tym, co się tu dzieje. Jednocześnie pozwala nie opuszczać IDE. To i tak czasem robię, bo jeszcze pluginu do ekspresu do kawy nie mam.
