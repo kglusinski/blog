@@ -31,7 +31,7 @@ const Alert = ({ preview }: Props) => {
             <>
               Ciasteczka zawierają pomocne informacje, pozwalające sprawdzić ruch na moim blogu. Chyba nie lubisz, gdy ktoś chodzi po Twoim domu po cichu? ;){' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href="/pages/polityka-prywatnosci"
                 className="underline hover:text-success duration-200 transition-colors"
               >
                 Tutaj dowiesz się więcej
@@ -44,5 +44,6 @@ const Alert = ({ preview }: Props) => {
     </div>
   )
 }
+
 
 export default Alert
