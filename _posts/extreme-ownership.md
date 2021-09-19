@@ -1,8 +1,8 @@
 ---
 title: 'Jak książka Extreme Ownership wpływa na moją pracę.'
-excerpt: 'Czy książka, w pewnym sensie biznesowa, może wpłynąć na jakość kodu? Czy programista może nauczyć się czegoś od najlepszych jednostek armii amerykańskiej? Jak ekstremalne przywództwo wpływa na pracę w zespole? Na te i inne pytania postaram się odpowiedzieć w tym i być może kolejnych wpisać na blogu. Zapraszam!'
+excerpt: 'Czy książka, w pewnym sensie biznesowa, może wpłynąć na jakość kodu? Czy programista może nauczyć się czegoś od najlepszych jednostek armii amerykańskiej? Jak ekstremalne przywództwo wpływa na pracę w zespole? Na te i inne pytania postaram się odpowiedzieć w tym i być może kolejnych wpisach na blogu. Zapraszam!'
 coverImage: '/assets/blog/hello-world/cover.jpeg'
-date: '2021-09-18T12:35:00.322Z'
+date: '2021-09-19T17:00:00.322Z'
 author:
   name: Kamil Głusiński
   picture: '/assets/blog/authors/kamil.jpeg'
@@ -34,6 +34,11 @@ Rozdział mocno biznesowo - menadżerski. Ale to nie znaczy, że nic nie można 
 Jeśli każdy jest liderem, to każdy ma wpływ na mniejszy czy większy urywek otoczenia. Ale przede wszystkim każdy członek zespołu ma wpływ na pozostałych. I to każda jednostka, oddolnie może narzucać wysokie standardy. Grunt, to stawiać sobie poprzeczkę coraz wyżej, a nie równać w dół. Podnosić standard, wymagać od koleżanek i kolegów. Bo to nie tylko kwestia oficjalnego lidera. To kwestia każdego z osobna. 
 
 ### Wierzyć
+To jest rozdział dość ważny. Ważny, bo wydaje mi się, że w karierze nie raz można trafić na decyzje z góry, które są niezrozumiałe. Ciężko podporządkować się czemuś, czego nie rozumiemy. Ciężko tworzyć "ficzerek", który wydaje się nam bez sensu. Ciężko zrezygnować z tej super fajnej, nowiutkiej pachnącej technologii, bo szef nie zgadza się na wprowadzenie jej. 
+
+I tu właśnie wchodzi wiara. Wiara często jest podstawą motywacji, a jeszcze częściej jej brak demotywuje. Często jesteśmy uwikłani w codzienność i bieżączkę i patrzymy tylko na to, co w tej chwili. Nie próbujemy zadać sobie pytania "dlaczego?". A to błąd. Tylko rozumiejąc i wierząc w to, co robimy, mamy szansę osiągnąć sukces.
+
+Co jeśli "góra" tego nie komunikuje? Cóż. Z jednej strony, wida "góry". To ich odpowiedzialność. 
 
 ### Kontrolować Ego
 
