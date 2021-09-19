@@ -24,11 +24,14 @@ Pierwszy rozdział to swego rodzaju esencja. Można ją streścić w jednym zdan
 
 Myślę. że jako programista wiele razy szukałem wymówki. Tu się nie da, tam nie ma informacji, tutaj za dużo roboty, tam ktoś nie ma czasu, to mnie coś blokuje. No chyba większość koleżanek i kolegów po fachu to zna. 
 
-Dużą zmianę przyniosło ekstremalne zawłaszczenie sobie tego, za co się biorę. Nie mogę zrzucać na innych, kiedy to ja biorę odpowiedzialność za cały kod. Wiem, że coś nie działa, dąże do poprawienia tego. Jakość produktu to odpowiedzialność zespołu, ale też każdego z osobna. 
+Dużą zmianę przyniosło ekstremalne zawłaszczenie sobie tego, za co się biorę. Nie mogę zrzucać na innych, kiedy to ja biorę odpowiedzialność za cały kod. Wiem, że coś nie działa, dąże do poprawienia tego. Jakość produktu to odpowiedzialność zespołu, ale też każdego z osobna. Trudno o to, gdy mamy rozbujałe ego. Gdy do swojego kodu podchodzimy jak do części siebie i bardzo emocjonalnie. 
 
 Książka prawi bardziej o liderach, więc i o tym napiszę. Krótko. Jeśli mój zespół zawala, to jest to moja wina.
 
 ### Nie ma złych zespołów, tylko źli dowódcy
+Rozdział mocno biznesowo - menadżerski. Ale to nie znaczy, że nic nie można z niego wyciągnąć w innych dziedzinach. Nie ma złych zespołów, tylko słabi liderzy. Co jeśli w pewnym stopniu każdy z członków zespołu jest liderem? Przecież każdy podejmuje indywidualne decyzje.
+
+Jeśli każdy jest liderem, to każdy ma wpływ na mniejszy czy większy urywek otoczenia. Ale przede wszystkim każdy członek zespołu ma wpływ na pozostałych. I to każda jednostka, oddolnie może narzucać wysokie standardy. Grunt, to stawiać sobie poprzeczkę coraz wyżej, a nie równać w dół. Podnosić standard, wymagać od koleżanek i kolegów. Bo to nie tylko kwestia oficjalnego lidera. To kwestia każdego z osobna. 
 
 ### Wierzyć
 
