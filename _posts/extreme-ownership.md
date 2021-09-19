@@ -41,5 +41,10 @@ I tu właśnie wchodzi wiara. Wiara często jest podstawą motywacji, a jeszcze 
 Co jeśli "góra" tego nie komunikuje? Cóż. Z jednej strony, wida "góry". To ich odpowiedzialność. 
 
 ### Kontrolować Ego
+Ego to nasze dwa w jednym. Największy motor napędowy i największy wróg. Gdyby nie ego, nie chcelibyśmy być lepsi. Pewnie napotykałby nas paraliż decyzyjny. Brak pewności siebie to poważny problem.
+
+Jednak ego, którego nie kontrolujemy to ogromna przeszkoda we współpracy. Programowanie, to gra zespołowa, najczęściej. Będąc zawsze naj, i mając zawsze rację, nie budujemy zespołu. Budujemy zgrupowanie jednostek. 
+
+Kiedy osobiste interesy stają się najważniejsze, szczególnie od dobra zespołu i jego misji, pojawiają sie porażki, przestajmy dowozić. To duża sztuka, aby nabrać pokory. Często przychodzi z czasem, ale warto się czasem nad tym pochylić.
 
 ## Podsumowanie
