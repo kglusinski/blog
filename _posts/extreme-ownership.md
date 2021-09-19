@@ -48,3 +48,10 @@ Jednak ego, którego nie kontrolujemy to ogromna przeszkoda we współpracy. Pro
 Kiedy osobiste interesy stają się najważniejsze, szczególnie od dobra zespołu i jego misji, pojawiają sie porażki, przestajmy dowozić. To duża sztuka, aby nabrać pokory. Często przychodzi z czasem, ale warto się czasem nad tym pochylić.
 
 ## Podsumowanie
+To są moje przemyślenia z pierwszej z trzech części książki. Myślę, że warte zatrzymania się i popatrzenia na własną pracę. Do zapamiętania:
+- Jestem w 100% odpowiedzialny za moją pracę;
+- Mam wpływ na otoczenie i muszę podnosić sobie poprzeczkę, to inspiruje innych;
+- Muszę wierzyć w to co robię, aby osiągnąć sukces. Jeśli nie wierzę - muszę znaleźć właściwe "dlaczego?";
+- Ego napędza i ego zabija. Pokora jest ważną cechą w pracy zespołowej i byciu liderem;
+
+Czy Ty, drogi czytelniku, możesz wyciągnąć coś dla siebie? 
