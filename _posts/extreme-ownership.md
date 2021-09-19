@@ -20,6 +20,13 @@ Ale sama książka ma na celu przekazanie czytelnikowi paru zasad dowodzenia, kt
 ## Wygrać wewnętrzną wojnę
 
 ### Ekstremalne zawłaszczenie
+Pierwszy rozdział to swego rodzaju esencja. Można ją streścić w jednym zdaniu, które gdzieś tam może się przenikać słuchając wypowiedzi Rafała Mazura z Zen Jaskiniowca - "Jak mogę tego dokonać? vs Nie da się, bo...". Prosto mówiąc, jedni biorą na siebie sprawczość, ale i pełną odpowiedzialność. Drudzy tylko szukają wymówek i punktują przeszkody. 
+
+Myślę. że jako programista wiele razy szukałem wymówki. Tu się nie da, tam nie ma informacji, tutaj za dużo roboty, tam ktoś nie ma czasu, to mnie coś blokuje. No chyba większość koleżanek i kolegów po fachu to zna. 
+
+Dużą zmianę przyniosło ekstremalne zawłaszczenie sobie tego, za co się biorę. Nie mogę zrzucać na innych, kiedy to ja biorę odpowiedzialność za cały kod. Wiem, że coś nie działa, dąże do poprawienia tego. Jakość produktu to odpowiedzialność zespołu, ale też każdego z osobna. 
+
+Książka prawi bardziej o liderach, więc i o tym napiszę. Krótko. Jeśli mój zespół zawala, to jest to moja wina.
 
 ### Nie ma złych zespołów, tylko źli dowódcy
 
