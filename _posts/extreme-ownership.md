@@ -29,29 +29,29 @@ Dużą zmianę przyniosło ekstremalne zawłaszczenie sobie tego, za co się bio
 Książka prawi bardziej o liderach, więc i o tym napiszę. Krótko. Jeśli mój zespół zawala, to jest to moja wina.
 
 ### Nie ma złych zespołów, tylko źli dowódcy
-Rozdział mocno biznesowo - menadżerski. Ale to nie znaczy, że nic nie można z niego wyciągnąć w innych dziedzinach. Nie ma złych zespołów, tylko słabi liderzy. Co jeśli w pewnym stopniu każdy z członków zespołu jest liderem? Przecież każdy podejmuje indywidualne decyzje.
+Rozdział mocno biznesowo - menadżerski. To nie znaczy, że nic nie można z niego wyciągnąć w innych dziedzinach. Nie ma złych zespołów, tylko słabi liderzy. Co jeśli w pewnym stopniu każdy z członków zespołu jest liderem? Przecież każdy podejmuje indywidualne decyzje.
 
-Jeśli każdy jest liderem, to każdy ma wpływ na mniejszy czy większy urywek otoczenia. Ale przede wszystkim każdy członek zespołu ma wpływ na pozostałych. I to każda jednostka, oddolnie może narzucać wysokie standardy. Grunt, to stawiać sobie poprzeczkę coraz wyżej, a nie równać w dół. Podnosić standard, wymagać od koleżanek i kolegów. Bo to nie tylko kwestia oficjalnego lidera. To kwestia każdego z osobna. 
+Jeśli każdy jest liderem, to każdy ma wpływ na mniejszy czy większy urywek otoczenia. Przede wszystkim każdy członek zespołu ma wpływ na pozostałych. I to każda jednostka, oddolnie może narzucać wysokie standardy. Grunt, to stawiać sobie poprzeczkę coraz wyżej, a nie równać w dół. Podnosić standard, wymagać od koleżanek i kolegów. Bo to nie tylko kwestia oficjalnego lidera. To kwestia każdego z osobna. 
 
 ### Wierzyć
 To jest rozdział dość ważny. Ważny, bo wydaje mi się, że w karierze nie raz można trafić na decyzje z góry, które są niezrozumiałe. Ciężko podporządkować się czemuś, czego nie rozumiemy. Ciężko tworzyć *"ficzerek"*, który wydaje się nam bez sensu. Ciężko zrezygnować z tej super fajnej, nowiutkiej pachnącej technologii, bo szef nie zgadza się na wprowadzenie jej. 
 
 I tu właśnie wchodzi wiara. Wiara często jest podstawą motywacji, a jeszcze częściej jej brak demotywuje. Często jesteśmy uwikłani w codzienność i bieżączkę i patrzymy tylko na to, co w tej chwili. Nie próbujemy zadać sobie pytania "dlaczego?". A to błąd. Tylko rozumiejąc i wierząc w to, co robimy, mamy szansę osiągnąć sukces.
 
-Co jeśli "góra" tego nie komunikuje? Cóż. Z jednej strony, wida "góry". To ich odpowiedzialność. 
+Co jeśli "góra" tego nie komunikuje? Cóż. Z jednej strony, wina "góry". To ich odpowiedzialność. 
 
 ### Kontrolować Ego
-Ego to nasze dwa w jednym. Największy motor napędowy i największy wróg. Gdyby nie ego, nie chcelibyśmy być lepsi. Pewnie napotykałby nas paraliż decyzyjny. Brak pewności siebie to poważny problem.
+Ego to nasze dwa w jednym. Największy motor napędowy i największy wróg. Gdyby nie ego, nie chcielibyśmy być lepsi. Pewnie napotykałby nas paraliż decyzyjny. Brak pewności siebie to poważny problem.
 
-Jednak ego, którego nie kontrolujemy to ogromna przeszkoda we współpracy. Programowanie, to gra zespołowa, najczęściej. Będąc zawsze naj, i mając zawsze rację, nie budujemy zespołu. Budujemy zgrupowanie jednostek. 
+Jednak ego, którego nie kontrolujemy to ogromna przeszkoda we współpracy. Programowanie, to gra zespołowa, najczęściej. Będąc zawsze naj i mając zawsze rację, nie budujemy zespołu. Budujemy zgrupowanie jednostek. 
 
-Kiedy osobiste interesy stają się najważniejsze, szczególnie od dobra zespołu i jego misji, pojawiają sie porażki, przestajmy dowozić. To duża sztuka, aby nabrać pokory. Często przychodzi z czasem, ale warto się czasem nad tym pochylić.
+Kiedy osobiste interesy stają się najważniejsze, szczególnie od dobra zespołu i jego misji, pojawiają się porażki, przestajemy dowozić. To duża sztuka, aby nabrać pokory. Często przychodzi z czasem, ale warto się czasem nad tym pochylić.
 
 ## Podsumowanie
 To są moje przemyślenia z pierwszej z trzech części książki. Myślę, że warte zatrzymania się i popatrzenia na własną pracę. Do zapamiętania:
 - Jestem w _100% odpowiedzialny_ za moją pracę;
 - Mam wpływ na otoczenie i muszę podnosić sobie poprzeczkę, to inspiruje innych;
-- Muszę wierzyć w to co robię, aby osiągnąć sukces. Jeśli nie wierzę - muszę znaleźć właściwe "dlaczego?";
+- Muszę wierzyć w to, co robię, aby osiągnąć sukces. Jeśli nie wierzę - muszę znaleźć właściwe "dlaczego?";
 - Ego napędza i ego zabija. Pokora jest ważną cechą w pracy zespołowej i byciu liderem;
 
 Czy Ty, drogi czytelniku, możesz wyciągnąć coś dla siebie? 
